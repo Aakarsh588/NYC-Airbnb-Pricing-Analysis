@@ -46,7 +46,7 @@ Manhattan leads in every tier — roughly **2x the Bronx** for entire homes. Thi
 
 An interactive Power BI dashboard models price by neighbourhood and room type with a live room-type filter, KPI summary cards, and an explicit callout of the headline finding:
 
-![Interactive Power BI dashboard: Average Price by Neighbourhood and Room Type, with KPI cards and a Manhattan premium callout](assets/dashboard.png)
+![Interactive Power BI dashboard: Average Price by Neighbourhood and Room Type, with KPI cards and a Manhattan premium callout](dashboard.png)
 
 **Full pipeline:**
 1. Identified and excluded 184 rows corrupted by malformed CSV quoting, verified via Power Query's error detection
