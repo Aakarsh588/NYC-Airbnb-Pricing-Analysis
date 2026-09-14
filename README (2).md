@@ -63,4 +63,4 @@ An interactive Power BI dashboard models price by neighbourhood and room type wi
 ## Files in this repository
 - `airbnb_analysis.py` — full analysis code: cleaning, SQL queries, hypothesis tests, correlation checks, and the regression model, exactly as written and run
 - `airbnb_nyc.csv` — source dataset
-- `assets/dashboard.png` — Power BI dashboard screenshot
+- `dashboard.png` — Power BI dashboard screenshot
